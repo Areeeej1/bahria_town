@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bahria_town/static/css/main.269503c4.css",
+    "main.js": "/bahria_town/static/js/main.839e152e.js",
+    "static/js/787.a155b2f9.chunk.js": "/bahria_town/static/js/787.a155b2f9.chunk.js",
+    "index.html": "/bahria_town/index.html",
+    "main.269503c4.css.map": "/bahria_town/static/css/main.269503c4.css.map",
+    "main.839e152e.js.map": "/bahria_town/static/js/main.839e152e.js.map",
+    "787.a155b2f9.chunk.js.map": "/bahria_town/static/js/787.a155b2f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.269503c4.css",
+    "static/js/main.839e152e.js"
+  ]
+}
